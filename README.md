@@ -1,1 +1,1 @@
-# kagglebicycle
+# Main page (Kaggle bicycle challenge)
